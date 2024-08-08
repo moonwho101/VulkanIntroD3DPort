@@ -6,7 +6,7 @@
 #include <memory>
 #include <algorithm>
 #include "Vulkan.h"
-
+#include <string>
 
 class InstanceBuilder {
 	std::vector<const char*> requiredExtensions;
